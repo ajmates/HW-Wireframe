@@ -1,0 +1,49 @@
+body {
+}
+
+header {
+  padding: 60px;
+  margin-bottom: 20px;
+  color: #ebebeb;
+  background: #777;
+}
+
+nav {
+color: #ebebeb;
+background: #777;
+}
+
+section {
+	color: #ebebeb; 
+	background: #777;
+}
+
+aside {
+color: #ebebeb; 
+	background: #777;  
+}
+
+#right{
+	float: right;
+}
+
+
+article {
+	color: #ebebeb;
+	background: #777;
+}
+
+header {
+	color: #ebebeb; 
+	background: #777; 
+}
+
+p { 
+color: #ebebeb; 
+background: #777; 
+}
+
+footer {
+	color: #ebebeb; 
+	background: #777;
+}
